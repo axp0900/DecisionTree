@@ -1,2 +1,5 @@
 #ignore the env folder
 env/
+
+#ignore __pychache__
+__pychache__/
